@@ -1,0 +1,7 @@
+C:\Users\umarbek-win10\Desktop\CodeWars\FormatSeconds\bin\Debug\FormatSeconds.exe.config
+C:\Users\umarbek-win10\Desktop\CodeWars\FormatSeconds\bin\Debug\FormatSeconds.exe
+C:\Users\umarbek-win10\Desktop\CodeWars\FormatSeconds\bin\Debug\FormatSeconds.pdb
+C:\Users\umarbek-win10\Desktop\CodeWars\FormatSeconds\obj\Debug\FormatSeconds.csproj.AssemblyReference.cache
+C:\Users\umarbek-win10\Desktop\CodeWars\FormatSeconds\obj\Debug\FormatSeconds.csproj.CoreCompileInputs.cache
+C:\Users\umarbek-win10\Desktop\CodeWars\FormatSeconds\obj\Debug\FormatSeconds.exe
+C:\Users\umarbek-win10\Desktop\CodeWars\FormatSeconds\obj\Debug\FormatSeconds.pdb

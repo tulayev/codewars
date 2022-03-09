@@ -1,0 +1,7 @@
+C:\Users\umarbek-win10\Desktop\CodeWars\MenFromBoys\bin\Debug\MenFromBoys.exe.config
+C:\Users\umarbek-win10\Desktop\CodeWars\MenFromBoys\bin\Debug\MenFromBoys.exe
+C:\Users\umarbek-win10\Desktop\CodeWars\MenFromBoys\bin\Debug\MenFromBoys.pdb
+C:\Users\umarbek-win10\Desktop\CodeWars\MenFromBoys\obj\Debug\MenFromBoys.csproj.AssemblyReference.cache
+C:\Users\umarbek-win10\Desktop\CodeWars\MenFromBoys\obj\Debug\MenFromBoys.csproj.CoreCompileInputs.cache
+C:\Users\umarbek-win10\Desktop\CodeWars\MenFromBoys\obj\Debug\MenFromBoys.exe
+C:\Users\umarbek-win10\Desktop\CodeWars\MenFromBoys\obj\Debug\MenFromBoys.pdb
