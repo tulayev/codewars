@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatSeconds", "FormatSeco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenFromBoys", "MenFromBoys\MenFromBoys.csproj", "{43BE4E27-7ABF-4EFC-A6F5-D02B31AB6423}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddyPairs", "Handshakes\BuddyPairs.csproj", "{B5F63EA3-DE81-4364-99BC-E78B4698BA90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToNumeric", "RomanToNumeric\RomanToNumeric.csproj", "{7BB4E350-BB21-4BA4-87F6-05E27377FFB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{43BE4E27-7ABF-4EFC-A6F5-D02B31AB6423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43BE4E27-7ABF-4EFC-A6F5-D02B31AB6423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43BE4E27-7ABF-4EFC-A6F5-D02B31AB6423}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B5F63EA3-DE81-4364-99BC-E78B4698BA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5F63EA3-DE81-4364-99BC-E78B4698BA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5F63EA3-DE81-4364-99BC-E78B4698BA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5F63EA3-DE81-4364-99BC-E78B4698BA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB4E350-BB21-4BA4-87F6-05E27377FFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB4E350-BB21-4BA4-87F6-05E27377FFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB4E350-BB21-4BA4-87F6-05E27377FFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB4E350-BB21-4BA4-87F6-05E27377FFB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
