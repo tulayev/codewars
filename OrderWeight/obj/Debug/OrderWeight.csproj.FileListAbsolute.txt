@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\codewars\OrderWeight\bin\Debug\OrderWeight.exe.config
+C:\Users\User\Desktop\codewars\OrderWeight\bin\Debug\OrderWeight.exe
+C:\Users\User\Desktop\codewars\OrderWeight\bin\Debug\OrderWeight.pdb
+C:\Users\User\Desktop\codewars\OrderWeight\obj\Debug\OrderWeight.csprojAssemblyReference.cache
+C:\Users\User\Desktop\codewars\OrderWeight\obj\Debug\OrderWeight.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codewars\OrderWeight\obj\Debug\OrderWeight.exe
+C:\Users\User\Desktop\codewars\OrderWeight\obj\Debug\OrderWeight.pdb

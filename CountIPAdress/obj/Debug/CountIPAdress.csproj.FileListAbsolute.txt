@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\codewars\CountIPAdress\bin\Debug\CountIPAdress.exe.config
+C:\Users\User\Desktop\codewars\CountIPAdress\bin\Debug\CountIPAdress.exe
+C:\Users\User\Desktop\codewars\CountIPAdress\bin\Debug\CountIPAdress.pdb
+C:\Users\User\Desktop\codewars\CountIPAdress\obj\Debug\CountIPAdress.csprojAssemblyReference.cache
+C:\Users\User\Desktop\codewars\CountIPAdress\obj\Debug\CountIPAdress.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codewars\CountIPAdress\obj\Debug\CountIPAdress.exe
+C:\Users\User\Desktop\codewars\CountIPAdress\obj\Debug\CountIPAdress.pdb

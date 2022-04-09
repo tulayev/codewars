@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{368F4D1E-3268-4C8F-BA57-1AC968FC3CE1}</ProjectGuid>
+    <ProjectGuid>{EC0F5B88-6FDC-421B-8E8E-E5A65CCD8F18}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Algorithms</RootNamespace>
-    <AssemblyName>Algorithms</AssemblyName>
+    <RootNamespace>Int2IPv4</RootNamespace>
+    <AssemblyName>Int2IPv4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
