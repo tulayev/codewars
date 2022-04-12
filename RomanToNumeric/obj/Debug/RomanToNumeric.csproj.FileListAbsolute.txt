@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\codewars\RomanToNumeric\bin\Debug\RomanToNumeric.exe.config
-C:\Users\User\Desktop\codewars\RomanToNumeric\bin\Debug\RomanToNumeric.exe
-C:\Users\User\Desktop\codewars\RomanToNumeric\bin\Debug\RomanToNumeric.pdb
-C:\Users\User\Desktop\codewars\RomanToNumeric\obj\Debug\RomanToNumeric.csprojAssemblyReference.cache
-C:\Users\User\Desktop\codewars\RomanToNumeric\obj\Debug\RomanToNumeric.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\codewars\RomanToNumeric\obj\Debug\RomanToNumeric.exe
-C:\Users\User\Desktop\codewars\RomanToNumeric\obj\Debug\RomanToNumeric.pdb

@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\codewars\ZerosandOnes\bin\Debug\CodeWarTask.exe.config
-C:\Users\User\Desktop\codewars\ZerosandOnes\bin\Debug\CodeWarTask.exe
-C:\Users\User\Desktop\codewars\ZerosandOnes\bin\Debug\CodeWarTask.pdb
-C:\Users\User\Desktop\codewars\ZerosandOnes\obj\Debug\ZerosandOnes.csprojAssemblyReference.cache
-C:\Users\User\Desktop\codewars\ZerosandOnes\obj\Debug\ZerosandOnes.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\codewars\ZerosandOnes\obj\Debug\CodeWarTask.exe
-C:\Users\User\Desktop\codewars\ZerosandOnes\obj\Debug\CodeWarTask.pdb

@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\codewars\Int2IPv4\bin\Debug\Int2IPv4.exe.config
-C:\Users\User\Desktop\codewars\Int2IPv4\bin\Debug\Int2IPv4.exe
-C:\Users\User\Desktop\codewars\Int2IPv4\bin\Debug\Int2IPv4.pdb
-C:\Users\User\Desktop\codewars\Int2IPv4\obj\Debug\Int2IPv4.csprojAssemblyReference.cache
-C:\Users\User\Desktop\codewars\Int2IPv4\obj\Debug\Int2IPv4.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\codewars\Int2IPv4\obj\Debug\Int2IPv4.exe
-C:\Users\User\Desktop\codewars\Int2IPv4\obj\Debug\Int2IPv4.pdb
