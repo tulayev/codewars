@@ -26,9 +26,10 @@ namespace CourseTasks
              * Task #3
             var game = new TicTacToe();
             game.Start();
-            */
-
+            
+             * Task #4
             new Hangman().Start();
+            */
 
             Console.ReadKey();
         }
@@ -39,10 +40,10 @@ namespace CourseTasks
         public double X { get; private set; }
         public double Y { get; private set; }
 
-        public Complex(double x, double yi)
+        public Complex(double x, double y)
         {
             X = x;
-            Y = yi;
+            Y = y;
         }
 
         public Complex Add(Complex number) => new Complex(X + number.X, Y + number.Y);
@@ -199,6 +200,7 @@ namespace CourseTasks
             char letter;
             int attempts = 0;
             bool gameOver = false;
+
             while (!gameOver)
             {
                 var sb = new StringBuilder(guess);
@@ -256,10 +258,5 @@ namespace CourseTasks
             var rnd = new Random();
             return _words[rnd.Next(0, _words.Length)];
         }
-        private bool IsLetter(char c)
-        {
-            return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z');
-        }
-
     }
 }
