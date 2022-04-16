@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 using System.Text;
 
 namespace CourseTasks
@@ -196,7 +195,7 @@ namespace CourseTasks
         public void Start()
         {
             string word = GetRandomWord();
-            string guess = String.Concat(Enumerable.Repeat("_", word.Length)); 
+            string guess = new string('_', word.Length);
             char letter;
             int attempts = 0;
             bool gameOver = false;
