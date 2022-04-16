@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerimeterOfSquaresInRectang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB2HEX", "RGB2HEX\RGB2HEX.csproj", "{6B7B3A56-C33D-40EC-A963-8941EF86CD13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseTasks", "CourseTasks\CourseTasks.csproj", "{CE41E69B-CA54-434B-9D6D-C2ADDC5F4E5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{6B7B3A56-C33D-40EC-A963-8941EF86CD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B7B3A56-C33D-40EC-A963-8941EF86CD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B7B3A56-C33D-40EC-A963-8941EF86CD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE41E69B-CA54-434B-9D6D-C2ADDC5F4E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE41E69B-CA54-434B-9D6D-C2ADDC5F4E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE41E69B-CA54-434B-9D6D-C2ADDC5F4E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE41E69B-CA54-434B-9D6D-C2ADDC5F4E5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
