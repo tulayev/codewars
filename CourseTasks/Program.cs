@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using System.Text;
 
 namespace CourseTasks
 {
@@ -26,6 +28,8 @@ namespace CourseTasks
             var game = new TicTacToe();
             game.Start();
             */
+
+            new Hangman().Start();
 
             Console.ReadKey();
         }
@@ -183,5 +187,80 @@ namespace CourseTasks
 
             return false;
         }
+    }
+
+    class Hangman
+    {
+        private string[] _words = { "asbstract", "doll", "aficionado" };
+
+        public void Start()
+        {
+            string word = GetRandomWord();
+            string guess = String.Concat(Enumerable.Repeat("_", word.Length)); 
+            char letter;
+            int attempts = 0;
+            bool gameOver = false;
+            while (!gameOver)
+            {
+                var sb = new StringBuilder(guess);
+                bool guessed = false;
+                gameOver = CheckWin(attempts, guess, word);
+                Console.WriteLine($"Word: {guess}\nAttempts: {attempts}");
+                
+                try
+                {
+                    letter = Char.Parse(Console.ReadLine());
+                } 
+                catch(FormatException ex)
+                {
+                    Console.Clear();
+                    Console.WriteLine($"Input string has wrong format. Error: {ex.Message}");
+                    continue;
+                }
+
+                for (int i = 0; i < word.Length; i++)
+                {
+                    if (word[i] == letter)
+                    {
+                        sb[i] = word[i];
+                        guess = sb.ToString();
+                        guessed = true;
+                    }
+                }
+
+                if (!guessed)
+                {
+                    attempts++;
+                }
+
+                Console.Clear();
+            }
+        }
+
+        private bool CheckWin(int attempts, string guess, string word)
+        {
+            if (attempts == 6)
+            {
+                Console.WriteLine($"You lost. The word was: {word}");
+                return true;
+            } 
+            if (guess == word)
+            {
+                Console.WriteLine($"You won. The word was: {word}");
+                return true;
+            }
+            return false;
+        }
+
+        private string GetRandomWord()
+        {
+            var rnd = new Random();
+            return _words[rnd.Next(0, _words.Length)];
+        }
+        private bool IsLetter(char c)
+        {
+            return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z');
+        }
+
     }
 }
