@@ -7,7 +7,7 @@ namespace ValidParentheses
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine(ValidParenthesesV2("(()()"));
             Console.ReadKey();
         }
 
@@ -46,6 +46,33 @@ namespace ValidParentheses
             }
 
             return true;
+        }
+
+        public static bool ValidParenthesesV2(string input)
+        {
+            int counter = 0;
+
+            foreach (char c in input)
+            {
+                if (c == '(')
+                {
+                    counter++;
+                }
+                else
+                {
+                    if (c == ')')
+                    {
+                        counter--;
+                    }
+
+                    if (counter < 0)
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return counter == 0;
         }
     }
 }
