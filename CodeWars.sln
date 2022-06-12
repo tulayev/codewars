@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame", "SnakeGame\Snak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{9859B33A-8DA6-44D7-AE74-658E6E1B6D4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCS", "LCS\LCS.csproj", "{65DF22B6-2C1C-4C93-AF42-0ADA1ACF349C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{9859B33A-8DA6-44D7-AE74-658E6E1B6D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9859B33A-8DA6-44D7-AE74-658E6E1B6D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9859B33A-8DA6-44D7-AE74-658E6E1B6D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DF22B6-2C1C-4C93-AF42-0ADA1ACF349C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DF22B6-2C1C-4C93-AF42-0ADA1ACF349C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DF22B6-2C1C-4C93-AF42-0ADA1ACF349C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DF22B6-2C1C-4C93-AF42-0ADA1ACF349C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
